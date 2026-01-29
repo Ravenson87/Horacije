@@ -1,5 +1,7 @@
 Horacije BACKEND🧾
-Horacije is a simple expense tracking application that allows users to record daily bills and expenses, and search through them by items, categories, and dates. The app provides insights into how much money was spent on specific products or types of expenses over time, with a clean interface and straightforward workflow.
+
+Horacije is a simple expense tracking application that allows users to record daily bills and expenses, and search through them by items, categories, and dates. 
+The app provides insights into how much money was spent on specific products or types of expenses over time, with a clean interface and straightforward workflow.
 
 ✨ Main features include:
 
