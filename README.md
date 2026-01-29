@@ -1,30 +1,27 @@
-<<<<<<< HEAD
-# Horacije Backend🧾
+# Horacije BACKEND🧾
 
-Horacije is a simple expense tracking application that allows users to record daily bills and expenses, and search through them by items, categories, and dates. 
-The app provides insights into how much money was spent on specific products or types of expenses over time, with a clean interface and straightforward workflow.
+Horacije is a simple expense tracking application that allows users to record daily bills and expenses, and search through them by items, categories, and dates. The app provides insights into how much money was spent on specific products or types of expenses over time, with a clean interface and straightforward workflow.
 
-##✨ Main features include:
+✨ Main features include:
+- Adding daily bills and expenses
+- Searching expenses by item name, type/category, or date
+- Viewing total spending per day and per category
+- Simple and intuitive interface
 
-Adding daily bills and expenses
-Searching expenses by item name, type/category, or date
-Viewing total spending per day and per category
-Simple and intuitive interface
+🛠️ Built with:
+- Java / Spring Boot for the backend
+- MariaDB as the database
+- React for the frontend
+- Git & GitHub for version control
 
-##🛠️ Built with:
+🚀 How to run the application:
+- **Backend**
+  ```bash
+  cd backend
+  mvn spring-boot:run
+  ```
 
-Java / Spring Boot for the backend
-MariaDB as the database
-React for the frontend
-Git & GitHub for version control
-
-##🚀 How to run the application:
-
-Backend
-cd backend
-mvn spring-boot:run
-
-##📂 Project Structure
+## 📂 Project Structure
 ```
 backend/
 ├── src/
@@ -36,9 +33,9 @@ backend/
 └── README.md                    # Documentation for backend
 ```
 
-##👤 Author
-Gavrić Siniša
-GitHub: github.com/Ravenson87
+## 👤 Author
+- Gavrić Siniša
+- GitHub: [github.com/Ravenson87](https://github.com/Ravenson87)
 
 
 <<<<<<< HEAD
