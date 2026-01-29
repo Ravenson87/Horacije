@@ -38,7 +38,6 @@ backend/
 - GitHub: [github.com/Ravenson87](https://github.com/Ravenson87)
 
 
-<<<<<<< HEAD
 # Horacije Frontend 🎨
 
 This is the React frontend of the Horacie expense tracking application.  
